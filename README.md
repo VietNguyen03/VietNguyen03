@@ -1,12 +1,9 @@
 ## Hi there 👋
 ## 👨‍💻 About Me
--🌱 I’m currently learning and exploring **Cloud & AI technologies**  
+- 🌱 I’m currently learning and exploring **Cloud & AI technologies**  
 - 🎯 Always aiming to **improve problem-solving & clean code practices**  
 - 💡 I enjoy building **creative web apps, scalable backends, and AI solutions**  
 - 🏗️🚧 I’m currently working on a project for USF using AI model prediction for tornadoes
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vietnguyen30)
 
 ## 🛠️ Tech Stack
 
@@ -45,6 +42,9 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vietnguyen30)
 
 ---
 
