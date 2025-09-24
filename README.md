@@ -1,7 +1,6 @@
 ## Hi there 👋
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning and exploring **Cloud & AI technologies**  
-- 🎯 Always aiming to building **creative web apps, scalable backends, and AI solutions** by **improve problem-solving & clean code practices**  
+- ✨ Always aiming to build creative web apps, scalable backends, and AI solutions while improving problem-solving skills and clean code practices.
 - 🏗️🚧 I’m currently working on a project for USF using AI model prediction for tornadoes
 
 ## 🛠️ Tech Stack
