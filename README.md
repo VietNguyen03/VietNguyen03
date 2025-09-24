@@ -1,12 +1,14 @@
 ## Hi there 👋
-
-- 🏗️🚧 I’m currently working on a project
-
-
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
+-🌱 I’m currently learning and exploring **Cloud & AI technologies**  
+- 🎯 Always aiming to **improve problem-solving & clean code practices**  
+- 💡 I enjoy building **creative web apps, scalable backends, and AI solutions**  
+- 🏗️🚧 I’m currently working on a project for USF using AI model prediction for tornadoes
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vietnguyen30)
+
+## 🛠️ Tech Stack
 
 ### Machine Learning & AI
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
