@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 👨‍💻 About Me
 - ✨ Always aiming to build creative web apps, scalable backends, and AI solutions while improving problem-solving skills and clean code practices.
-- 🏗️🚧 I’m currently working on a project for USF using AI model prediction for tornadoes
+- 🏗️🚧 I’m currently working on a project for USF Geoscience using research databases model to collaborate with National Disaster Agency.
 
 ## 🛠️ Tech Stack
 ### Languages
